@@ -4,7 +4,7 @@ package ca.jisan.kryptonote;
 public class Cipher {
 
     // fields
-    public static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";        // characters of the plaintext and the cipher text
+    public static final String ALPHABET = " ABCDEFGHIJKLMNOPQRSTUVWXYZ";        // characters of the plaintext and the cipher text
     private String key;
 
     // ctr
